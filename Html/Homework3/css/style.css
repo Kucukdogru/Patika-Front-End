@@ -1,0 +1,12 @@
+.p-description{
+    background: #f89526; 
+    display: inline;
+    border-radius: 0.5em;
+    border:1px solid #f89426;
+}
+
+footer{
+    background: #f89526; 
+    color:#fff;
+    font-size:1.5em;
+}
